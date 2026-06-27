@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const musicianOption = musicianRadio ? musicianRadio.value : 'Apenas a locação';
             
             // Construct the WhatsApp message
-            const phoneNumber = '5511999999999'; // Replace with client's actual WhatsApp number
+            const phoneNumber = '5511964324323'; // Client's actual WhatsApp number
             
             const baseMessage = 
 `Olá, Black White! Gostaria de solicitar um orçamento para locação de piano:
